@@ -1,2 +1,0 @@
-# QAR-reader
-QAR reader
